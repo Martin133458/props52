@@ -1,0 +1,17 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  border: 2px solid black;
+}
+.card img {
+  width: 100%;
+  aspect-ratio: 1;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.card button {
+  padding: 10px;
+  background-color: darkgreen;
+}/*# sourceMappingURL=Card.css.map */
